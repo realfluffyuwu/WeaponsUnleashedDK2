@@ -1,0 +1,11 @@
+Simple, you see that folder called Weapons Unleashed?
+
+Just slap that in AppData\Local\KillHouseGames\DoorKickers2\mods
+
+If you are having trouble navigating to it, Press your Start Button and try typing %localappdata%
+It should open a folder that will contain a bunch of nonsense, From there Find "KillHouseGames" then "DoorKickers2" then "mods" Boom You got it.
+
+Good job buddy.
+
+If you have issues Ping me in the Mod discussion channel on the DoorKickers 2 Discord.
+Or if you want to DM me Fluffy#3105

@@ -1,0 +1,102 @@
+<Equipment>
+	<!-- these control where the Empty option shows up in the customization screen (for which slot/class combo) -->
+
+	<Empty name="EmptyUtility" inventoryBinding="UtilityPouch" tooltip="@menu_cust_item_empty">
+		<ClassBinding name="Assault"/>
+		<ClassBinding name="Support"/>
+		<ClassBinding name="Marksman"/>
+		<ClassBinding name="Medic"/>
+		<ClassBinding name="Grenadier"/>
+		<ClassBinding name="BlackOps"/>
+		<ClassBinding name="Undercover"/>
+		<ClassBinding name="Chonkers"/>
+	</Empty>
+
+	<Empty name="EmptyPrimary" inventoryBinding="PrimaryWeapon" tooltip="@menu_cust_item_empty">
+		<ClassBinding name="Assault"/>
+		<ClassBinding name="Support"/>
+		<ClassBinding name="Marksman"/>
+		<ClassBinding name="Medic"/>
+		<ClassBinding name="Grenadier"/>
+		<ClassBinding name="BlackOps"/>
+		<ClassBinding name="Undercover"/>
+		<ClassBinding name="Chonkers"/>
+	</Empty>
+
+	<Empty name="EmptySecondary" inventoryBinding="SecondaryWeapon" tooltip="@menu_cust_item_empty">
+		<ClassBinding name="Assault"/>
+		<ClassBinding name="Support"/>
+		<ClassBinding name="Marksman"/>
+		<ClassBinding name="Medic"/>
+		<ClassBinding name="Grenadier"/>
+		<ClassBinding name="BlackOps"/>
+		<ClassBinding name="Undercover"/>
+		<ClassBinding name="Chonkers"/>
+	</Empty>
+
+	<Empty name="EmptyHelmet" inventoryBinding="Helmet" tooltip="@menu_cust_item_empty">
+		<ClassBinding name="Assault"/>
+		<ClassBinding name="Support"/>
+		<ClassBinding name="Marksman"/>
+		<ClassBinding name="Medic"/>
+		<ClassBinding name="Grenadier"/>
+		<ClassBinding name="BlackOps"/>
+		<ClassBinding name="Undercover"/>
+		<ClassBinding name="Chonkers"/>
+	</Empty>
+	
+	<Empty name="EmptyHelmetNVG" inventoryBinding="HelmetNVG" tooltip="@menu_cust_item_empty">
+		<ClassBinding name="Assault"/>
+		<ClassBinding name="Support"/>
+		<ClassBinding name="Marksman"/>
+		<ClassBinding name="Medic"/>
+		<ClassBinding name="Grenadier"/>
+		<ClassBinding name="BlackOps"/>
+		<ClassBinding name="Undercover"/>
+		<ClassBinding name="Chonkers"/>
+	</Empty>
+
+	<Empty name="EmptyArmor" inventoryBinding="Armor" tooltip="@menu_cust_item_empty">
+		<ClassBinding name="Assault"/>
+		<ClassBinding name="Support"/>
+		<ClassBinding name="Marksman"/>
+		<ClassBinding name="Medic"/>
+		<ClassBinding name="Grenadier"/>
+		<ClassBinding name="BlackOps"/>
+		<ClassBinding name="Undercover"/>
+		<ClassBinding name="Chonkers"/>
+	</Empty>
+
+	<Empty name="EmptySupportGear" inventoryBinding="SupportGear1" tooltip="@menu_cust_item_empty">
+		<ClassBinding name="Assault"/>
+		<ClassBinding name="Support"/>
+		<ClassBinding name="Marksman"/>
+		<ClassBinding name="Medic"/>
+		<ClassBinding name="Grenadier"/>
+		<ClassBinding name="BlackOps"/>
+		<ClassBinding name="Undercover"/>
+		<ClassBinding name="Chonkers"/>
+	</Empty>
+
+	<Empty name="EmptyPrimaryMuzzle" inventoryBinding="PrimaryWeaponMuzzle" tooltip="@menu_cust_item_empty">
+		<ClassBinding name="Assault"/>
+		<ClassBinding name="Support"/>
+		<ClassBinding name="Marksman"/>
+		<ClassBinding name="Medic"/>
+		<ClassBinding name="Grenadier"/>
+		<ClassBinding name="BlackOps"/>
+		<ClassBinding name="Undercover"/>
+		<ClassBinding name="Chonkers"/>
+	</Empty>
+
+	<Empty name="EmptySecondaryMuzzle" inventoryBinding="SecondaryWeaponMuzzle" tooltip="@menu_cust_item_empty">
+		<ClassBinding name="Assault"/>
+		<ClassBinding name="Support"/>
+		<ClassBinding name="Marksman"/>
+		<ClassBinding name="Medic"/>
+		<ClassBinding name="Grenadier"/>
+		<ClassBinding name="BlackOps"/>
+		<ClassBinding name="Undercover"/>
+		<ClassBinding name="Chonkers"/>
+	</Empty>
+</Equipment>
