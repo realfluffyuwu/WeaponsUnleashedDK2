@@ -7,5 +7,7 @@ It should open a folder that will contain a bunch of nonsense, From there Find "
 
 Good job buddy.
 
+Alternatively I have included an Installer, It should do the trick but you can always manually install it if you don't trust my Bat, No sweat it definitely doesn't hurt my feelings T^T.
+
 If you have issues Ping me in the Mod discussion channel on the DoorKickers 2 Discord.
 Or if you want to DM me Fluffy#3105
