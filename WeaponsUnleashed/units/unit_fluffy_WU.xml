@@ -1,0 +1,46 @@
+<Units>
+	<Unit
+		name="AbsoluteUnits"
+		nameUI="CHONKERS"
+		description="CHONK"
+		flagTex="data/textures/gui/squads/rangers_bg_01.dds"
+		rndNameEntry="@#SquadChonkersName">
+
+		<Classes>
+			<Class name="Chonkers" 	numSlots="24" iconTex="data/textures/gui/deploy/class_icon_assaulter.dds"/>
+		</Classes>
+
+		<TrooperRanks>
+			<Rank name="Chonk Level 1" xpNeeded="0" 		badgeTex="data/textures/gui/customization/cia_rank_01.dds"/>
+			<Rank name="Chonk Level 2" xpNeeded="700" 		badgeTex="data/textures/gui/customization/cia_rank_02.dds"/>
+			<Rank name="Chonk Level 3" xpNeeded="2300" 		badgeTex="data/textures/gui/customization/cia_rank_03.dds"/>
+			<Rank name="Chonk Level 4" xpNeeded="5600" 		badgeTex="data/textures/gui/customization/cia_rank_04.dds"/>
+			<Rank name="Chonk Level 5" xpNeeded="11800" 	badgeTex="data/textures/gui/customization/cia_rank_05.dds"/>
+			<Rank name="Chonk Level 6" xpNeeded="22400" 	badgeTex="data/textures/gui/customization/cia_rank_06.dds"/>
+			<Rank name="Chonk Level 7" xpNeeded="38400" 	badgeTex="data/textures/gui/customization/cia_rank_07.dds"/>
+			<Rank name="Chonk Level 8" xpNeeded="60200" 	badgeTex="data/textures/gui/customization/cia_rank_08.dds"/>
+			<Rank name="Chonk Level 9" xpNeeded="86400" 	badgeTex="data/textures/gui/customization/cia_rank_09.dds"/>
+			<Rank name="Chonk Level 10" xpNeeded="126400" 	badgeTex="data/textures/gui/customization/cia_rank_10.dds"/>
+			<Rank name="ULTIMATE CHONK"	xpNeeded="156400" 	badgeTex="data/textures/gui/customization/cia_rank_10.dds"/>
+		</TrooperRanks>
+
+		<Ranks>
+			<Rank xpNeeded="0" 		badgeTex=""/>
+			<Rank xpNeeded="4000" 	badgeTex=""/>
+			<Rank xpNeeded="9000" 	badgeTex=""/>
+			<Rank xpNeeded="14980" 	badgeTex=""/>
+			<Rank xpNeeded="21920" 	badgeTex=""/>
+			<Rank xpNeeded="29800" 	badgeTex=""/>
+			<Rank xpNeeded="38600" 	badgeTex=""/>
+			<Rank xpNeeded="48310" 	badgeTex=""/>
+			<Rank xpNeeded="58900" 	badgeTex=""/>
+			<Rank xpNeeded="70360" 	badgeTex=""/>
+			<Rank xpNeeded="82680" 	badgeTex=""/>
+			<Rank xpNeeded="95820" 	badgeTex=""/>
+			<Rank xpNeeded="109790" badgeTex=""/>
+			<Rank xpNeeded="124550" badgeTex=""/>
+			<Rank xpNeeded="140100" badgeTex=""/>
+			<Rank xpNeeded="156420" badgeTex=""/>
+		</Ranks>
+	</Unit>
+</Units>

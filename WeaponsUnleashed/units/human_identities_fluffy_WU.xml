@@ -1,0 +1,37 @@
+<HumanIdentities>
+
+	<Portrait tex="data/textures/portraits/chungus.dds"  unit="AbsoluteUnits" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/chungus.dds"  unit="AbsoluteUnits" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/chungus.dds"  unit="AbsoluteUnits" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/chungus.dds"  unit="AbsoluteUnits" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/chungus.dds"  unit="AbsoluteUnits" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/chungus.dds"  unit="AbsoluteUnits" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/chungus.dds"  unit="AbsoluteUnits" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/chungus.dds"  unit="AbsoluteUnits" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/chungus.dds"  unit="AbsoluteUnits" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="AbsoluteUnits" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="AbsoluteUnits" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="AbsoluteUnits" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="AbsoluteUnits" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="AbsoluteUnits" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="AbsoluteUnits" gender="0" voicePack="male_very_american"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="AbsoluteUnits" gender="0" voicePack="male_very_american"/>
+
+	<Name name="FLUFFY" 	unit="AbsoluteUnits" gender="0"/>
+	<Name name="MITCH" 		unit="AbsoluteUnits" gender="0"/>
+	<Name name="KAMI" 		unit="AbsoluteUnits" gender="0"/>
+	<Name name="FATES" 		unit="AbsoluteUnits" gender="0"/>
+	<Name name="GARY" 		unit="AbsoluteUnits" gender="0"/>
+	<Name name="CRALL" 		unit="AbsoluteUnits" gender="0"/>
+	<Name name="EAGLE" 		unit="AbsoluteUnits" gender="0"/>
+	<Name name="JORDAN" 	unit="AbsoluteUnits" gender="0"/>
+	<Name name="QUINLET" 	unit="AbsoluteUnits" gender="0"/>
+	<Name name="KILLA" 		unit="AbsoluteUnits" gender="0"/>
+	<Name name="DANUU" 		unit="AbsoluteUnits" gender="0"/>
+	<Name name="SHADOW" 	unit="AbsoluteUnits" gender="0"/>
+	<Name name="RECON" 		unit="AbsoluteUnits" gender="0"/>
+	<Name name="DGATT" 		unit="AbsoluteUnits" gender="0"/>
+	<Name name="TECH" 		unit="AbsoluteUnits" gender="0"/>
+	<Name name="ANGEL" 		unit="AbsoluteUnits" gender="0"/>
+
+</HumanIdentities>

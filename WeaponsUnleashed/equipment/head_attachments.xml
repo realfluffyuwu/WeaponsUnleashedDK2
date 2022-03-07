@@ -9,6 +9,7 @@
 		<ClassBinding name="Grenadier"/>
 		<ClassBinding name="Marksman"/>
 		<ClassBinding name="Medic"/>
+		<ClassBinding name="Chonkers"/>
 		<MobilityModifiers moveSpeedModifierPercent="-2" turnSpeedModifierPercent="-2"/>
 		<ConcealmentModifier add="0" />
 
@@ -27,6 +28,7 @@
 			<ClassBinding name="Grenadier"/>
 			<ClassBinding name="Marksman"/>
 			<ClassBinding name="Medic"/>
+			<ClassBinding name="Chonkers"/>
 		<MobilityModifiers moveSpeedModifierPercent="0" turnSpeedModifierPercent="0"/>
 		<ConcealmentModifier add="0" />
 
@@ -45,6 +47,7 @@
 			<ClassBinding name="Grenadier"/>
 			<ClassBinding name="Marksman"/>
 			<ClassBinding name="Medic"/>
+			<ClassBinding name="Chonkers"/>
 		<MobilityModifiers moveSpeedModifierPercent="-1" turnSpeedModifierPercent="-1"/>
 		<ConcealmentModifier add="0" />
 
@@ -63,6 +66,7 @@
 			<ClassBinding name="Grenadier"/>
 			<ClassBinding name="Marksman"/>
 			<ClassBinding name="Medic"/>
+			<ClassBinding name="Chonkers"/>
 		<MobilityModifiers moveSpeedModifierPercent="-1" turnSpeedModifierPercent="-3"/>
 		<ConcealmentModifier add="0" />
 
@@ -81,6 +85,7 @@
 			<ClassBinding name="Grenadier"/>
 			<ClassBinding name="Marksman"/>
 			<ClassBinding name="Medic"/>
+			<ClassBinding name="Chonkers"/>
 		<MobilityModifiers moveSpeedModifierPercent="-1" turnSpeedModifierPercent="-2"/>
 		<ConcealmentModifier add="0" />
 
