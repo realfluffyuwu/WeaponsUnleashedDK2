@@ -17,12 +17,6 @@
     <to name="Rangers"/>
   </Bind>
 
-	<Bind eqp="Shield">
-    <to name="CIA"/>
-    <to name="Nowheraki"/>
-    <to name="Rangers"/>
-  </Bind>
-
 	<Bind eqp="Lockpick">
     <to name="CIA"/>
     <to name="Nowheraki"/>
