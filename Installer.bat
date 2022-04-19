@@ -1,15 +1,15 @@
 @echo off
-echo     ______     ______       __  ____  _ __  
+echo     ______     ______       __  ____  _ __
 echo    / __/ /_ __/ _/ _/_ __  / / / / /_(_) /__
 echo   / _// / // / _/ _/ // / / /_/ / __/ / (_-^<
 echo  /_/ /_/\_,_/_//_/ \_, /  \____/\__/_/_/___/
-echo                   /___/                     
+echo                   /___/
 echo.
 echo You are Running Mod Installer Batch Edition v0.1
 echo      Hosted on Github.com/MrFlufficans
 echo.
 echo  Warning, This Batch Script Does not Autoupdate
-echo.  
+echo.
 echo  I suggest the Powershell version if you want to
 echo    Keep up to date with the Latest Features
 echo.
