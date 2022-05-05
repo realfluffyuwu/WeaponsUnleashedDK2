@@ -1,0 +1,85 @@
+<HumanIdentities>
+	<!--
+		When generating troops, first a portrait is randomly picked.
+		 After the portrait has been picked, a name is also randomly picked for it, matching the portrait's gender and unit.
+
+		You can have a name always tied to a portrait, without picking a random name, by using the 'customName' field:
+		<Portrait tex="data/textures/portraits/ranger1.dds" customName="CUSTOM NAME" unit="Rangers" gender="0"/>
+
+		If Class is also specified for a portrait, it will also match that one, but specifying Class is not mandatory.
+			However, once you *do* specify a class for a portrait, no other portraits will be chosen for that class, except from within the ones that also specify class.
+		<Portrait tex="data/textures/portraits/ranger1.dds" unit="Rangers" class="Assault" gender="0"/>
+	-->
+
+
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="Chonkers"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="Chonkers"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="Chonkers"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="Chonkers"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="Chonkers"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="Chonkers"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="Chonkers"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="Chonkers"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="Chonkers"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="Chonkers"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="Chonkers"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="Chonkers"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="Chonkers"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="Chonkers"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="Chonkers"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="Chonkers"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="Chonkers"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="Chonkers"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="Chonkers"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="Chonkers"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="Chonkers"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="Chonkers"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="Chonkers"/>
+	<Portrait tex="data/textures/portraits/chungus.dds" unit="Chonkers"/>
+
+	<!-- NAMES
+	  these can be linked to a several units (unit0, unit1, unit2 etc). If you don't specify any unit name, they will be available for all units.
+	-->
+	<UnitNames unit0="Chonkers">
+		<Gender value="1">
+			<Name n="FLUFFY"/>
+			<Name n="RUM"/>
+			<Name n="MITCH"/>
+			<Name n="KAMI"/>
+			<Name n="FATES"/>
+			<Name n="GARY"/>
+			<Name n="CRALL"/>
+			<Name n="EAGLE"/>
+			<Name n="JORDAN"/>
+			<Name n="QUINLET"/>
+			<Name n="KILLA"/>
+			<Name n="DANUU"/>
+			<Name n="SHADOW"/>
+			<Name n="RECON"/>
+			<Name n="DGATT"/>
+			<Name n="TECH"/>
+			<Name n="ANGEL"/>
+		</Gender>
+
+		<Gender value="0">
+			<Name n="FLUFFY"/>
+			<Name n="RUM"/>
+			<Name n="MITCH"/>
+			<Name n="KAMI"/>
+			<Name n="FATES"/>
+			<Name n="GARY"/>
+			<Name n="CRALL"/>
+			<Name n="EAGLE"/>
+			<Name n="JORDAN"/>
+			<Name n="QUINLET"/>
+			<Name n="KILLA"/>
+			<Name n="DANUU"/>
+			<Name n="SHADOW"/>
+			<Name n="RECON"/>
+			<Name n="DGATT"/>
+			<Name n="TECH"/>
+			<Name n="ANGEL"/>
+		</Gender>
+	</UnitNames>
+
+</HumanIdentities>

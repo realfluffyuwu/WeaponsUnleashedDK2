@@ -3,72 +3,84 @@
     <to name="CIA"/>
     <to name="Nowheraki"/>
     <to name="Rangers"/>
+		<to name="Chonkers"/>
   </Bind>
 
 	<Bind eqp="ExplosiveCharge">
     <to name="CIA"/>
     <to name="Nowheraki"/>
     <to name="Rangers"/>
+		<to name="Chonkers"/>
   </Bind>
 
 	<Bind eqp="Armor">
     <to name="CIA"/>
     <to name="Nowheraki"/>
     <to name="Rangers"/>
+		<to name="Chonkers"/>
   </Bind>
 
 	<Bind eqp="Lockpick">
     <to name="CIA"/>
     <to name="Nowheraki"/>
     <to name="Rangers"/>
+		<to name="Chonkers"/>
   </Bind>
 
 	<Bind eqp="LockpickMachine">
     <to name="CIA"/>
     <to name="Nowheraki"/>
     <to name="Rangers"/>
+		<to name="Chonkers"/>
   </Bind>
 
 	<Bind eqp="Crowbar">
     <to name="CIA"/>
     <to name="Nowheraki"/>
     <to name="Rangers"/>
+		<to name="Chonkers"/>
   </Bind>
 
 	<Bind eqp="DynamicHammer">
     <to name="CIA"/>
     <to name="Nowheraki"/>
     <to name="Rangers"/>
+		<to name="Chonkers"/>
   </Bind>
 
 	<Bind eqp="SpyCamera">
     <to name="CIA"/>
     <to name="Nowheraki"/>
     <to name="Rangers"/>
+		<to name="Chonkers"/>
   </Bind>
 
 	<Bind eqp="TECTorch">
 		<to name="CIA"/>
 		<to name="Nowheraki"/>
 		<to name="Rangers"/>
+		<to name="Chonkers"/>
 	</Bind>
 
 	<Bind eqp="Empty">
 		<to name="CIA"/>
 		<to name="Nowheraki"/>
 		<to name="Rangers"/>
+		<to name="Chonkers"/>
 	</Bind>
 
 	<Bind eqp="Helmet">
 		<to name="CIA"/>
 		<to name="Nowheraki"/>
 		<to name="Rangers"/>
+		<to name="Chonkers"/>
 	</Bind>
 
 	<Bind eqp="HelmetNVG">
 		<to name="CIA"/>
 		<to name="Nowheraki"/>
 		<to name="Rangers"/>
+		<to name="Chonkers"/>
 	</Bind>
 
 	<Unbind to="Rangers">
@@ -685,4 +697,134 @@
 		<eqp name="AT4 Rocket Launcher"/>
 		<eqp name="RPG 26 CIA BOps"/>
 	</Bind>
+
+	<Bind to="Chonkers">
+		<eqp name="DontExist"/>
+		<eqp name="M500PP"/>
+		<eqp name="M1014"/>
+		<eqp name="M16A4"/>
+		<eqp name="M4 Carbine"/>
+		<eqp name="M4Sup"/>
+		<eqp name="MK 18"/>
+		<eqp name="MK 18Sup"/>
+		<eqp name="M4/M203"/>
+		<eqp name="M4/M203Sup"/>
+		<eqp name="MK18/M203"/>
+		<eqp name="MK18/M203Sup"/>
+		<eqp name="M16A4/M203"/>
+		<eqp name="M240L"/>
+		<eqp name="MG338"/>
+		<eqp name="MG338Sup"/>
+		<eqp name="M16A4Marksman"/>
+		<eqp name="MK17LB"/>
+		<eqp name="MK17LB Sup"/>
+		<eqp name="M14EBR"/>
+		<eqp name="MK20SSR"/>
+		<eqp name="MK20SSRSup"/>
+		<eqp name="MK17STD"/>
+		<eqp name="MK17STD Sup"/>
+		<eqp name="Breacher Shotgun"/>
+		<eqp name="PM63 CIA"/>
+		<eqp name="MP5K CIA BOps"/>
+		<eqp name="MP5K Sup CIA BOps"/>
+		<eqp name="MP5KPDW CIA BOps"/>
+		<eqp name="MP5KPDW Sup CIA BOps"/>
+		<eqp name="MP5A CIA BOps"/>
+		<eqp name="MP5A Sup CIA BOps"/>
+		<eqp name="MP5SD CIA Bops"/>
+		<eqp name="MP7 CIA BOps"/>
+		<eqp name="MP7Sup CIA BOps"/>
+		<eqp name="AKS 74U CIA BOps"/>
+		<eqp name="AKS 74USup CIA BOps"/>
+		<eqp name="AK 105 Alpha CIA BOps"/>
+		<eqp name="AK 105 Alpha Sup CIA BOps"/>
+		<eqp name="MK17CQC CIA BOps"/>
+		<eqp name="MK17CQC Sup CIA BOps"/>
+		<eqp name="M249SPW CIA BOps"/>
+		<eqp name="M249SPW Sup CIA BOps"/>
+		<eqp name="MK48 CIA BOps"/>
+		<eqp name="MK48 Sup CIA BOps"/>
+		<eqp name="PKP CIA BOps"/>
+		<eqp name="VSS CIA BOps"/>
+		<eqp name="M110A1 CIA BOps"/>
+		<eqp name="M110A1Sup CIA BOps"/>
+		<eqp name="M17 Pistol"/>
+		<eqp name="M18 Pistol"/>
+		<eqp name="G19X Pistol"/>
+		<eqp name="G2240 Pistol"/>
+		<eqp name="1911 Pistol"/>
+		<eqp name="MPS45Sup Pistol"/>
+		<eqp name="TSS4 Pistol"/>
+		<eqp name="G19 Pistol CIA BOps"/>
+		<eqp name="G19Sup Pistol CIA BOps"/>
+		<eqp name="G19Custom Pistol CIA BOps"/>
+		<eqp name="HK45CT CIA BOps"/>
+		<eqp name="HK45CTSup CIA BOps"/>
+		<eqp name="M9 Pistol NWS"/>
+		<eqp name="M9Sup Pistol NWS"/>
+		<eqp name="G17 Pistol NWS"/>
+		<eqp name="HS45 Pistol NWS"/>
+		<eqp name="Mini Uzi NWS"/>
+		<eqp name="Mini Uzi Pistol NWS"/>
+		<eqp name="AKM GL NWS"/>
+		<eqp name="AR M14 NWS"/>
+		<eqp name="AKM NWS"/>
+		<eqp name="Type 56 NWS"/>
+		<eqp name="Vulcan NWS"/>
+		<eqp name="Vulcan Sup NWS"/>
+		<eqp name="APC9K NWS"/>
+		<eqp name="APC9K Sup NWS"/>
+		<eqp name="FAL NWS"/>
+		<eqp name="RPK NWS"/>
+		<eqp name="AT4 Rocket Launcher"/>
+		<eqp name="RPG 26 CIA BOps"/>
+	</Bind>
+
+	<!-- T1 Binds-->
+	<Bind to="Chonkers">
+		<eqp name="MJOLNIR"/>
+		<eqp name="MP5A"/>
+		<eqp name="MP5SD"/>
+		<eqp name="MP7A1"/>
+		<eqp name="MP7A1 SD"/>
+		<eqp name="Vector9"/>
+		<eqp name="Vector9SD"/>
+		<eqp name="P90"/>
+		<eqp name="P90 SD"/>
+		<eqp name="M16A4 SD"/>
+		<eqp name="M4 Carbine SD"/>
+		<eqp name="URGI"/>
+		<eqp name="URGI SD"/>
+		<eqp name="MK 18 SD"/>
+		<eqp name="HK 416"/>
+		<eqp name="HK 416 SD"/>
+		<eqp name="MCX"/>
+		<eqp name="MCX SPEAR"/>
+		<eqp name="MCX SPEAR SD"/>
+		<eqp name="AS VAL"/>
+		<eqp name="AK 105"/>
+		<eqp name="AK 105 SD"/>
+		<eqp name="G3KA4"/>
+		<eqp name="G3KA4 SD"/>
+		<eqp name="M249SPW"/>
+		<eqp name="M249SPWSD"/>
+		<eqp name="MK48"/>
+		<eqp name="MK48 SD"/>
+		<eqp name="MG338 SD"/>
+		<eqp name="M16A4Marksman SD"/>
+		<eqp name="APC9K T1"/>
+		<eqp name="MGL HE"/>
+		<eqp name="MGL CS"/>
+		<eqp name="MGL SMK"/>
+		<eqp name="MGL FB"/>
+		<eqp name="GL40 HE"/>
+		<eqp name="GL40 HEDP"/>
+		<eqp name="GL40 CS"/>
+		<eqp name="GL40 SMK"/>
+		<eqp name="M320 HE"/>
+		<eqp name="M320 HEDP"/>
+		<eqp name="M320 CS"/>
+		<eqp name="M320 SMK"/>
+	</Bind>
+
 </Equipment>

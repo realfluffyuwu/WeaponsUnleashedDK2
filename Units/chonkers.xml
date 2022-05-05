@@ -1,0 +1,46 @@
+<Units>
+	<Unit
+		name="Chonkers"
+		nameUI="Chonkers Supreme"
+		description="These Fellas are Chonkers, You got a Terrorist Problem, they will eat carrots"
+		flagTex="data/textures/gui/squads/rangers_bg_01.dds"
+		flagColor="cb893e"
+		rndNameEntry="@#EliteChonkers">
+
+		<Classes>
+			<Class name="Chonker" 	nameUI="Chonker"   numSlots="32" supply="100" iconTex="data/textures/gui/deploy/class_icon_assaulter.dds"/>
+		</Classes>
+
+		<TrooperRanks>
+			<Rank name="Chonker in Training" 					xpNeeded="0" 			badgeTex="data/textures/gui/customization/trooper_rank_01.dds"/>
+			<Rank name="Chonker Private" 							xpNeeded="700" 		badgeTex="data/textures/gui/customization/trooper_rank_02.dds"/>
+			<Rank name="Chonker Private First Class" 	xpNeeded="2300" 	badgeTex="data/textures/gui/customization/trooper_rank_03.dds"/>
+			<Rank name="El Chonker oui oui~" 					xpNeeded="5600" 	badgeTex="data/textures/gui/customization/trooper_rank_04.dds"/>
+			<Rank name="Mister Chonkius" 							xpNeeded="11800" 	badgeTex="data/textures/gui/customization/trooper_rank_05.dds"/>
+			<Rank name="Brother Chonker" 							xpNeeded="22400" 	badgeTex="data/textures/gui/customization/trooper_rank_06.dds"/>
+			<Rank name="Bigger Brother Chonker" 			xpNeeded="38400" 	badgeTex="data/textures/gui/customization/trooper_rank_07.dds"/>
+			<Rank name="Daddy Chonk" 									xpNeeded="60200" 	badgeTex="data/textures/gui/customization/trooper_rank_08.dds"/>
+			<Rank name="Lesser Chunkious" 						xpNeeded="86400" 	badgeTex="data/textures/gui/customization/trooper_rank_09.dds"/>
+			<Rank name="Chunkious Maximus" 						xpNeeded="126400" badgeTex="data/textures/gui/customization/trooper_rank_10.dds"/>
+		</TrooperRanks>
+
+		<Ranks>
+			<Rank xpNeeded="0" 			badgeTex=""/>
+			<Rank xpNeeded="4000" 	badgeTex=""/>
+			<Rank xpNeeded="9000" 	badgeTex=""/>
+			<Rank xpNeeded="14980" 	badgeTex=""/>
+			<Rank xpNeeded="21920" 	badgeTex=""/>
+			<Rank xpNeeded="29800" 	badgeTex=""/>
+			<Rank xpNeeded="38600" 	badgeTex=""/>
+			<Rank xpNeeded="48310" 	badgeTex=""/>
+			<Rank xpNeeded="58900" 	badgeTex=""/>
+			<Rank xpNeeded="70360" 	badgeTex=""/>
+			<Rank xpNeeded="82680" 	badgeTex=""/>
+			<Rank xpNeeded="95820" 	badgeTex=""/>
+			<Rank xpNeeded="109790" badgeTex=""/>
+			<Rank xpNeeded="124550" badgeTex=""/>
+			<Rank xpNeeded="140100" badgeTex=""/>
+			<Rank xpNeeded="156420" badgeTex=""/>
+		</Ranks>
+	</Unit>
+</Units>
