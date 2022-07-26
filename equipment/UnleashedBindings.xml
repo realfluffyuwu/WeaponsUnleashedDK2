@@ -1,59 +1,59 @@
 <Equipment>
-  <Bind eqp="Grenade">
-    <to name="CIA"/>
-    <to name="Nowheraki"/>
-    <to name="Rangers"/>
+	<Bind eqp="Grenade">
+		<to name="CIA"/>
+		<to name="Nowheraki"/>
+		<to name="Rangers"/>
 		<to name="Chonkers"/>
-  </Bind>
+	</Bind>
 
 	<Bind eqp="ExplosiveCharge">
-    <to name="CIA"/>
-    <to name="Nowheraki"/>
-    <to name="Rangers"/>
+		<to name="CIA"/>
+		<to name="Nowheraki"/>
+		<to name="Rangers"/>
 		<to name="Chonkers"/>
-  </Bind>
+	</Bind>
 
 	<Bind eqp="Armor">
-    <to name="CIA"/>
-    <to name="Nowheraki"/>
-    <to name="Rangers"/>
+		<to name="CIA"/>
+		<to name="Nowheraki"/>
+		<to name="Rangers"/>
 		<to name="Chonkers"/>
-  </Bind>
+	</Bind>
 
 	<Bind eqp="Lockpick">
-    <to name="CIA"/>
-    <to name="Nowheraki"/>
-    <to name="Rangers"/>
+		<to name="CIA"/>
+		<to name="Nowheraki"/>
+		<to name="Rangers"/>
 		<to name="Chonkers"/>
-  </Bind>
+	</Bind>
 
 	<Bind eqp="LockpickMachine">
-    <to name="CIA"/>
-    <to name="Nowheraki"/>
-    <to name="Rangers"/>
+		<to name="CIA"/>
+		<to name="Nowheraki"/>
+		<to name="Rangers"/>
 		<to name="Chonkers"/>
-  </Bind>
+	</Bind>
 
 	<Bind eqp="Crowbar">
-    <to name="CIA"/>
-    <to name="Nowheraki"/>
-    <to name="Rangers"/>
+		<to name="CIA"/>
+		<to name="Nowheraki"/>
+		<to name="Rangers"/>
 		<to name="Chonkers"/>
-  </Bind>
+	</Bind>
 
 	<Bind eqp="DynamicHammer">
-    <to name="CIA"/>
-    <to name="Nowheraki"/>
-    <to name="Rangers"/>
+		<to name="CIA"/>
+		<to name="Nowheraki"/>
+		<to name="Rangers"/>
 		<to name="Chonkers"/>
-  </Bind>
+	</Bind>
 
 	<Bind eqp="SpyCamera">
-    <to name="CIA"/>
-    <to name="Nowheraki"/>
-    <to name="Rangers"/>
+		<to name="CIA"/>
+		<to name="Nowheraki"/>
+		<to name="Rangers"/>
 		<to name="Chonkers"/>
-  </Bind>
+	</Bind>
 
 	<Bind eqp="TECTorch">
 		<to name="CIA"/>
@@ -826,5 +826,4 @@
 		<eqp name="M320 CS"/>
 		<eqp name="M320 SMK"/>
 	</Bind>
-
 </Equipment>

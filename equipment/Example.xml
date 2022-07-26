@@ -14,4 +14,30 @@
 	Here is another Example that has Real Names in it.
 	I'm sorry if you view this File with Syntax highlighting but,
 	To avoid issue this actually trying
+
+	<Bind to="Rangers">
+		<eqp name="M500PP"/>
+		<eqp name="M1014"/>
+		<eqp name="M16A4"/>
+		<eqp name="M4 Carbine"/>
+		<eqp name="M4Sup"/>
+		<eqp name="MK 18"/>
+		<eqp name="MK 18Sup"/>
+		<eqp name="M4/M203"/>
+	</Bind>
+
+	Now what does this do? well it's fairly obvious if you read it,
+	but to explain it simply at the top it says '<Bind to="Rangers">'
+	This sets up this whole Bind section to bind to the Rangers Unit
+	
+	Now this is important because it doesn't actually have to be a Unit,
+	it can be a Class as well for example 'Assault' which is still the rangers.
+	However it's only that one Class inside the Rangers.
+
+	Now lets look at those other lines '<eqp name="M500PP"/>'
+	This here is the name of the equipment,
+	Ideally this will be the 'Firearm name="ThisThingHere">'
+	This applies to other equipment types as well like Grenades,
+	eplosive charges etc.
+
 -->
