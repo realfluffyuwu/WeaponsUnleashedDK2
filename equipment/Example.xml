@@ -13,7 +13,7 @@
 <!--
 	Here is another Example that has Real Names in it.
 	I'm sorry if you view this File with Syntax highlighting but,
-	To avoid issue this actually trying
+	To avoid issue this actually trying to load, I put it into a comment.
 
 	<Bind to="Rangers">
 		<eqp name="M500PP"/>
