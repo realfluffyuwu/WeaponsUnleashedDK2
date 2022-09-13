@@ -10,7 +10,7 @@
 		<eqp name="EquipmentName2"/>
 		<eqp name="EquipmentName3"/>
 	</Bind>
-<Equipment>
+</Equipment>
 
 <!-- Example 2 -->
 <Equipment>
@@ -19,7 +19,7 @@
 		<to name="EquipmentName1"/>
 		<eqp name="EquipmentName2"/>
 	</Bind>
-<Equipment>
+</Equipment>
 <!--
 	Here is another Example that has Real Names in it.
 	I'm sorry if you view this File with Syntax highlighting but,
