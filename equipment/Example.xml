@@ -2,14 +2,24 @@
 	Here I have placed an Example of how to Bind Multiple Equipment to a Unit.
 	This is about 90% of Weapons Unleashed, It's not a terrible complex Mod.
 -->
+
+<!-- Example 1 -->
 <Equipment>
 	<Bind to="ExampleUnitName">
-		<eqp name="EquipmentName"/>
+		<eqp name="EquipmentName1"/>
 		<eqp name="EquipmentName2"/>
 		<eqp name="EquipmentName3"/>
 	</Bind>
 <Equipment>
 
+<!-- Example 2 -->
+<Equipment>
+	<Bind eqp="EquipmentName">
+		<to name="Unit/Class"/>
+		<to name="EquipmentName1"/>
+		<eqp name="EquipmentName2"/>
+	</Bind>
+<Equipment>
 <!--
 	Here is another Example that has Real Names in it.
 	I'm sorry if you view this File with Syntax highlighting but,
