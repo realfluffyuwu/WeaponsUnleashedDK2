@@ -1,0 +1,15 @@
+<GUIItems>
+	<EventActionBatch name="GAME_GUI_LOADTIME_ACTIONS">
+		<Action type="Show" target="WULogo"/>
+		<Action type="SetForeground" target="WULogo"/>
+	</EventActionBatch>
+
+  <Item name="WULogo" hidden="true">
+		<OnOpen>
+			<Action type="AddMeToParent" target="Menu_Main"/>
+		</OnOpen>
+		<StaticImage origin="480 480">
+			<RenderObject2D texture="data/textures/gui/WUMenuSplash.dds"/>
+		</StaticImage>
+	</Item>
+</GUIItems>
